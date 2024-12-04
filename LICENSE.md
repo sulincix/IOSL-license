@@ -10,9 +10,9 @@ This software is distributed under the terms of the Islamic Open Source License 
 
 You are free to:
 
-- **Use**: You may use the software for any lawful purpose, as long as it does not violate the ethical principles of Islam or cause harm to others.
-- **Modify**: You may modify the software to suit your needs, provided your changes do not lead to harm or injustice.
-- **Distribute**: You may distribute the software and its modifications, but you must do so under the terms of this license and provide the same freedoms to others.
+- **Use**: You can use the software for any lawful purpose, as long as it does not violate the ethical principles of Islam or cause harm to others.
+- **Modify**: You can modify the software to suit your needs, provided your changes do not lead to harm or injustice.
+- **Distribute**: You can distribute the software and its modifications, but you must do so under the terms of this license and provide the same freedoms to others.
 
 ### 2. Conditions for Redistribution
 
