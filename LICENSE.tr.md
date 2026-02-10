@@ -24,7 +24,7 @@ Bu yazılım, İslam'da belirtilen adalet, eşitlik ve merhamet ilkelerini korur
 
 - **Atıf**: Yazılımın orijinal yazarlarına atıfta bulunmalı ve katkılarını kabul etmelisiniz. Yazılımın veya yazarların adı, başkalarını yanıltmak veya aldatmak için kullanılmamalıdır.
 
-- **Ücretsiz Erişim**: Yazılım her zaman ücretsiz olarak kullanılabilir ve erişilebilir olmalıdır. Ticari yeniden dağıtıma izin verilir, ancak bu, adalet ve dürüstlük ilkelerine uygun olmalı ve yazılımın etik dışı kazanç için istismar edilmemesi gerekir.
+- **Özgür Erişim**: Yazılım her zaman özgür olarak kullanılabilir ve erişilebilir olmalıdır. Ticari yeniden dağıtıma izin verilir, ancak bu, adalet ve dürüstlük ilkelerine uygun olmalı ve yazılımın etik dışı kazanç için istismar edilmemesi gerekir.
 
 ### 3. Faydalanıcıların Sorumluluğu
 
