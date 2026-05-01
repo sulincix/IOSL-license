@@ -1,5 +1,7 @@
 **Islamic Open Source License (IOSL)**
 
+Version 1.0
+
 ### Preamble
 
 In the name of Allah, the Most Gracious, the Most Merciful.

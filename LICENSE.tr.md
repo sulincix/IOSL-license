@@ -1,5 +1,7 @@
 **İslami Açık Kaynak Lisansı (IOSL)**
 
+Sürüm 1.0
+
 ### Giriş
 
 Rahman ve Rahim olan Allah'ın adıyla.
